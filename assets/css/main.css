@@ -3084,6 +3084,11 @@
     	width: 240px;
 	}
     
+    .portrait2 {
+    	height: 240px;
+    	width: 180px;
+	}
+    
     .personalpages{
     	text-decoration:none;
     }
